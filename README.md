@@ -1,5 +1,5 @@
 # Undergraduate Research Thesis
-The research topic is **Implementation And Analysis Of Secure Channel For Intelligent Manufacturing System Based On Cloud Environment**.\
+The research topic is **Implementation and Analysis of Secure Channel for Intelligent Manufacturing System Based on Cloud**.\
 This research was under the execution of **College Student Research Scholarship, Ministry of Science and Technology** from Jul 2021 to Feb 2022.\
 [MOST-research](most-research.pdf)\
 Moreover, this research thesis was accepted by **Cryptology and Information Security Conference 2022**.\
